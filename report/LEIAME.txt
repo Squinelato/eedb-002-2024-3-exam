@@ -1,0 +1,3 @@
+- Aluno: João Guilherme Squinelato de Melo
+- Formato de arquivo: para melhor experiência, aconselhável abrir a prova em formato HTML
+- Código: link para o repositório com acesso íntegro ao código: https://github.com/Squinelato/eedb-002-2024-3-exam
